@@ -1,0 +1,47 @@
+_repo: Jane-Eyre--ou-Les-m-moires-d-une-institutrice_16235
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Souvestre, Lesbazeilles
+    gutenberg_agent_id: '6554'
+    url: http://www.gutenberg.org/2009/agents/6554
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brontë, Charlotte
+    aliases:
+    - Bell, Currer
+    - Bronte, Charlotte
+    - Charlotte Brontë
+    birthdate: 1816
+    deathdate: 1855
+    gutenberg_agent_id: '408'
+    url: http://www.gutenberg.org/2009/agents/408
+    wikipedia: http://en.wikipedia.org/wiki/Charlotte_Brontë
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2005-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16235'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Married people -- Fiction'
+- !lcc 'PR'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Fathers and daughters -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Governesses -- Fiction'
+- !lcsh 'Country homes -- Fiction'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'Mentally ill women -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Charity-schools -- Fiction'
+title: Jane Eyre; ou Les mémoires d'une institutrice
+url: http://www.gutenberg.org/ebooks/16235

@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/408
     wikipedia: http://en.wikipedia.org/wiki/Charlotte_Brontë
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16235#Jane-Eyre--ou-Les-m-moires-d-une-institutrice
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2005-07-07'
 gutenberg_type: Text
